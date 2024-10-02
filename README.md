@@ -18,6 +18,11 @@
 ### Connect with me 🌍
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+
+
+https://www.hackerrank.com/profile/nksmanya
+https://leetcode.com/u/nksmanya/
+https://www.codechef.com/users/nksmanya
 -->
 <!--
 **nksmanya/nksmanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
