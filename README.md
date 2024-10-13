@@ -1,5 +1,7 @@
 # Hi there, I'm Manya 👋
 💻 Web Developer | 🚀 Open-Source Enthusiast | 🎓 BTech in Computer Science
+
+[![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
 <!--
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
