@@ -1,16 +1,16 @@
 <h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm <a href="www.linkedin.com/in/nksmanya">Manya </a></h1>
 
-<!--- Adding Header Elements -->
-<div align="center">
-<!--
-<a href= " "> ![Portfolio](https://img.shields.io/badge/My_Website-ffbf00?style=for-the-badge)</a> 
-<a href= "https://www.geeksforgeeks.org/user/nksmanya/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-006400?style=for-the-badge&logoColor=#006400)</a>
-<a href= "https://leetcode.com/u/nksmanya/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
--->
 
+<div align="center">
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nksmanya)
 <a href="https://www.hackerrank.com/profile/nksmanya">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
-<a href="www.linkedin.com/in/nksmanya" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href= "https://leetcode.com/u/nksmanya/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a></a>
+<a href= "https://www.geeksforgeeks.org/user/nksmanya/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-006400?style=for-the-badge&logoColor=#006400)</a>
+
 </div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+developer;Open+Source+Contributor;Data+Science+Enthusiast)](https://git.io/typing-svg)
 <img align="right" alt="Coding" height="40px" width="50px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
@@ -33,11 +33,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,java,git,github,markdown" />
   </a>
 </p>
+
 <!-- https://github.com/tandpfun/skill-icons#readme for adding further tech stacks
 https://seotoolbelt.co/tools/ascii-art-generator/ ascii generator 
 https://skillicons.dev/ icons 
 https://github.com/lifeparticle/Markdown-Cheatsheet 
-
  -->
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
@@ -63,11 +63,59 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
  
-### Connect with me 🌍
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nksmanya)
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
+
+
+
+
+
+
+
+
+
+gssoc badges
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+</details>
+
+
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+
+</div>
+
+<!--
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/markdown.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/github-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/replit-icon.svg">
 
 
 ## 🚀 Tech Stack
@@ -80,7 +128,6 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 #### ✳️ Libraries
@@ -113,63 +160,6 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
 </details>
-
-
-gssoc badges
-
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
-</details>
-
-
-<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
-
-</div>
-
-<div align="center" style= "display: block;">
-
-`
-Tejas°
-`
-
-</div>
-
-
-
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/markdown.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/github-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/replit-icon.svg">
-
+-->
 
