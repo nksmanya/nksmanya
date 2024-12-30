@@ -52,25 +52,25 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
   
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20 px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="400px" alt="Manya's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nksmanya&layout=compact&theme=radical" width="305px" alt="Manya's Top Languages">
 </div>
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
-<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+
  
 ### My Digital Badges ⛊
 <details>	
- <summary><b>Hacktoberfest 2024 badges 💻</b></summary><br>
+ <summary><b>Hacktoberfest'24 👾</b></summary><br>
  
 [![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
 
 </details>
 
 <details>	
- <summary><b>GSSOC 2024 extd Badges 🪶</b></summary><br>
+ <summary><b>GSSoC'24 extd 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10 px;' align='center'>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="150px" height="150px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="150px" height="150px" />
@@ -82,9 +82,12 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 </details>
 
 
-<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+<details>	
+ <summary><b>Other badges</b></summary><br>
+  <img src="/images/badges.png" height="250px" width="1200px" />
+</details>
 
-</div>
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
 <!--
 <img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg">
