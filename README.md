@@ -52,7 +52,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
   
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20 px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50 px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="400px" alt="Manya's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nksmanya&layout=compact&theme=radical" width="305px" alt="Manya's Top Languages">
 </div>
@@ -61,7 +61,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
 
  
-### My Digital Badges ⛊
+### 🏅 Digital Badges 
 <details>	
  <summary><b>Hacktoberfest'24 👾</b></summary><br>
  
@@ -72,19 +72,19 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 <details>	
  <summary><b>GSSoC'24 extd 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10 px;' align='center'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150px" height="150px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="130px" height="130px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="130px" height="130px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="130px" height="130px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="130px" height="130px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="130px" height="130px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="130px" height="130px" />
 </div>
 </details>
 
 
 <details>	
- <summary><b>Other badges</b></summary><br>
-  <img src="/images/badges.png" height="250px" width="1200px" />
+ <summary><b>Other badges ⛊</b></summary><br>
+  <img src="/images/badges.png"  />
 </details>
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
