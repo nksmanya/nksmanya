@@ -1,45 +1,54 @@
 <h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm <a href="www.linkedin.com/in/nksmanya">Manya </a></h1>
-<!--- Adding Header Elements -->
-<p align="center">
-<!--   <a href=" ">Portfolio</a> - -->
-  <a href="www.linkedin.com/in/nksmanya">LinkedIn</a> - 
-  <a href="https://www.hackerrank.com/profile/nksmanya">Hackerrank</a> - 
-<!--   <a href=" ">Twitter</a> - 
-<a href="https://leetcode.com/u/nksmanya/">Leetcode</a> - 
- <a href="https://www.geeksforgeeks.org/user/nksmanya/">GFG</a> -->
-</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitter&pause=1000&width=435&lines=Web+developer;Open+Source+Contributor;Data+Science+Enthusiast" alt="Typing SVG"/></a>
 
-## 💫 About Me
+<!--- Adding Header Elements -->
+<div align="center">
+<!--
+<a href= " "> ![Portfolio](https://img.shields.io/badge/My_Website-ffbf00?style=for-the-badge)</a> 
+<a href= "https://www.geeksforgeeks.org/user/nksmanya/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-006400?style=for-the-badge&logoColor=#006400)</a>
+<a href= "https://leetcode.com/u/nksmanya/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+-->
+
+<a href="https://www.hackerrank.com/profile/nksmanya">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
+<a href="www.linkedin.com/in/nksmanya" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+developer;Open+Source+Contributor;Data+Science+Enthusiast)](https://git.io/typing-svg)
+<img align="right" alt="Coding" height="40px" width="50px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+
+ 
+### 💫 About Me
 
 - 🎓 Pursuing my `Bachelor's` in `Computer Science Engineering` from `Hindustan Institute of Technology and Science`, Chennai, India.
 
 - 🌱 I’m currently exploring **Data Science and Web development**.
 
-- 🪐 Fun fact: **I'm an artist and a video editor!**
+- 🪐 Fun fact: **I'm an artist, chess player and a video editor!**
 
-
-
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,java,git,github,markdown" />
   </a>
 </p>
+<!-- https://github.com/tandpfun/skill-icons#readme for adding further tech stacks
+https://seotoolbelt.co/tools/ascii-art-generator/ ascii generator 
+https://skillicons.dev/ icons 
+https://github.com/lifeparticle/Markdown-Cheatsheet 
 
+ -->
 
-
-
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+ 
 ### 🚀 Notable Projects
 - [Galactic Defender](https://github.com/yourusername/galactic-defender): A space shooting game developed in Python.
 - [Web Quest](https://github.com/nksmanya/Web-Quest): A Web Development Quiz App.
 - [Playify Piano](https://github.com/nksmanya/Playify-Piano): A Playable Virtual Piano in HTML, CSS & JavaScript.
 - [Google Seach Clone](https://github.com/nksmanya/Google-Search-Clone): A Simple Clone of Google Search, Google Advanced Search and Google Images purely made with HTML and CSS.
+
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
   
 ### 📊 GitHub Stats
 
@@ -48,34 +57,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nksmanya&layout=compact&theme=radical" width="380px" alt="Manya's Top Languages">
 </div>
 
-
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+ 
 [![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
 
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+ 
 ### Connect with me 🌍
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nksmanya)
 
+<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
 
-<div style="font-family:verdana;">
-<h2 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Tejas Gupta.</h2>
-  <img src="https://readme-typing-svg.demolab.com/?lines=A Tech%20enthusiast%20from%20India.;With 4+%2B%20years%20of%20coding%20experience.&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
-
-
-
-
-- 📫 See what else I do & feel free to connect with me here:
-
-<div align="center">
-
-<a href= "https://tejasgupta.netlify.app/"> ![Portfolio](https://img.shields.io/badge/Portfolio-ffbf00?style=for-the-badge)</a>
-<a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">![Notion](https://img.shields.io/badge/JOURNAL-%231b1c27.svg?style=for-the-badge)</a>
-<a href= "https://leetcode.com/tejas-gupta/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.hackerrank.com/profile/tejas_codes">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/tejascodes/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Links-teal?style=for-the-badge) </a>
-
-</div>
 
 ## 🚀 Tech Stack
 <details> 
@@ -104,21 +97,13 @@
 
 #### 🧩 Tools & Platforms
 
-<a href="https://github.com/multiverseweb" target="blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-0e1726?style=for-the-badge&logo=jupyter&logoColor=#f2770e)
-<a href="https://replit.com/@Tejas7Gupta">![Replit](https://img.shields.io/badge/Replit-0e1726?style=for-the-badge&logo=Replit&logoColor=f7640b)</a>
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Colab](https://img.shields.io/badge/Colab-2c2e35?style=for-the-badge&logo=googlecolab&color=525252) 
-![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=for-the-badge) 
-![Figma](https://img.shields.io/badge/Figma-2c2e35?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -129,38 +114,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🖥 OS
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-<img align="right" alt="Coding" height="40px" width="50px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
-<br/>
+
+
 </details>
 
 
-
-<h2>:octocat: GitHub Analytics</h2>
-
-  <div align="center">
-   
-   
-<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=react&hide_border=true">
-<img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=react" alt="Graph of Commits" />
-<img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=1F222E&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
-</div>
-
-
-## 🔰 Top Repositories
-   <p align="center">
-  
-    <a href="https://github.com/multiverseweb/CodeIt"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=CodeIt&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Coedit">
-    </a>
-    
-    <a href="https://github.com/multiverseweb/Dataverse"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Dataverse&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Dataverse">
-    </a>
-    
-    <a href="https://github.com/multiverseweb/house"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=house&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="House">
-    </a>
-  </p>     
 gssoc badges
 
 <details>	
