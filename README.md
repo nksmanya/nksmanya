@@ -19,7 +19,7 @@
  
 ### 💫 About Me
 
-- 🎓 Pursuing my `Bachelor's` in `Computer Science Engineering` from `Hindustan Institute of Technology and Science`, Chennai, India.
+- 🎓 Pursuing my `Bachelor's` in `Computer Science Engineering` from `Hindustan Institute of Technology and Science`, Chennai.
 
 - 🌱 I’m currently exploring **Data Science and Web development**.
 
@@ -62,12 +62,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
  
 ### 🏅 Digital Badges 
-<details>	
- <summary><b>Hacktoberfest'24 👾</b></summary><br>
- 
-[![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
 
-</details>
 
 <details>	
  <summary><b>GSSoC'24 extd 🪶</b></summary><br>
@@ -81,6 +76,12 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 </div>
 </details>
 
+<details>	
+ <summary><b>Hacktoberfest'24 👾</b></summary><br>
+ 
+[![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
+
+</details>
 
 <details>	
  <summary><b>Other badges ⛊</b></summary><br>
