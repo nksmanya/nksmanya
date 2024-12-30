@@ -53,8 +53,8 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="500px" alt="Manya's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nksmanya&layout=compact&theme=radical" width="380px" alt="Manya's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="380px" alt="Manya's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nksmanya&layout=compact&theme=radical" width="300px" alt="Manya's Top Languages">
 </div>
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
