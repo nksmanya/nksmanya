@@ -1,48 +1,59 @@
-# Hi there, I'm Manya 👋
-💻 Web Developer | 🚀 Open-Source Enthusiast | 🎓 BTech in Computer Science
+<h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm <a href="www.linkedin.com/in/nksmanya">Manya </a></h1>
+<!--- Adding Header Elements -->
+<p align="center">
+<!--   <a href=" ">Portfolio</a> - -->
+  <a href="www.linkedin.com/in/nksmanya">LinkedIn</a> - 
+  <a href="https://www.hackerrank.com/profile/nksmanya">Hackerrank</a> - 
+<!--   <a href=" ">Twitter</a> - 
+<a href="https://leetcode.com/u/nksmanya/">Leetcode</a> - 
+ <a href="https://www.geeksforgeeks.org/user/nksmanya/">GFG</a> -->
+</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitter&pause=1000&width=435&lines=Web+developer;Open+Source+Contributor;Data+Science+Enthusiast" alt="Typing SVG"/></a>
 
-[![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
-<!--
+## 💫 About Me
+
+- 🎓 Pursuing my `Bachelor's` in `Computer Science Engineering` from `Hindustan Institute of Technology and Science`, Chennai, India.
+
+- 🌱 I’m currently exploring **Data Science and Web development**.
+
+- 🪐 Fun fact: **I'm an artist and a video editor!**
+
+
+
+
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-44D?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python," />
+  </a>
+</p>
+
+
+
 
 ### 🚀 Notable Projects
 - [Galactic Defender](https://github.com/yourusername/galactic-defender): A space shooting game developed in Python.
-- [Movie Recommendation System](https://github.com/yourusername/movie-recommender): A machine learning project that recommends movies based on user input.
-- [AI-powered Personal Assistant](https://github.com/yourusername/ai-assistant): Built for the Smart India Hackathon, focusing on emotional intelligence.
-
+- [Web Quest](https://github.com/nksmanya/Web-Quest): A Web Development Quiz App.
+- [Playify Piano](https://github.com/nksmanya/Playify-Piano): A Playable Virtual Piano in HTML, CSS & JavaScript.
+- [Google Seach Clone](https://github.com/nksmanya/Google-Search-Clone): A Simple Clone of Google Search, Google Advanced Search and Google Images purely made with HTML and CSS.
+  
 ### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="500px" alt="Manya's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nksmanya&layout=compact&theme=radical" width="380px" alt="Manya's Top Languages">
+</div>
+
+
+[![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
 
 ### Connect with me 🌍
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nksmanya)
 
-
-https://www.hackerrank.com/profile/nksmanya
-https://leetcode.com/u/nksmanya/
-https://www.codechef.com/users/nksmanya
--->
-<!--
-**nksmanya/nksmanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-
-![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)
 
 
 <div style="font-family:verdana;">
@@ -51,16 +62,6 @@ Here are some ideas to get you started:
 
 
 
-
-## 💫 About Me
-
-- 🎓 Pursuing my `Bachelor's` in `Computer Science & Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`, Pune, India.
-
-- 🌱 I’m currently exploring **Machine Learning**.
-
-- 👨‍💻 Ask me about **Web Development, Python, UI/UX Designing**.
-
-- 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
 
 - 📫 See what else I do & feel free to connect with me here:
 
@@ -193,7 +194,7 @@ Tejas°
 
 </div>
 
-<!--
+
 
 <img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg">
 <img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg">
@@ -212,4 +213,4 @@ Tejas°
 <img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
 <img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/replit-icon.svg">
 
--->
+
