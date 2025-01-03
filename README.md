@@ -2,7 +2,11 @@
 
 
 <div align="center">
-
+<!--
+<a href=" ">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a>
+<a href="https://www.kaggle.com/manz1905">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) </a>
+ https://github.com/alexandresanlim/Badges4-README.md-Profile  for gettting badges for readme.md
+-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nksmanya)
 <a href="https://www.hackerrank.com/profile/nksmanya">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
