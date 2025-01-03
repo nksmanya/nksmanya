@@ -4,11 +4,11 @@
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nksmanya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nksmanya)
 <a href="https://www.hackerrank.com/profile/nksmanya">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
 <a href= "https://leetcode.com/u/nksmanya/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a></a>
-<a href= "https://www.geeksforgeeks.org/user/nksmanya/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-006400?style=for-the-badge&logoColor=#006400)</a>
-
+<a href= "https://www.geeksforgeeks.org/user/nksmanya/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)</a>
+<a href= "https://www.codechef.com/users/nksmanya"> ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)</a></a>
 </div>
 
 
