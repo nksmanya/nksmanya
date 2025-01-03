@@ -21,7 +21,7 @@
 
 - 🎓 Pursuing my `Bachelor's` in `Computer Science Engineering` from `Hindustan Institute of Technology and Science`, Chennai.
 
-- 🌱 I’m currently exploring **Data Science and Web development**.
+- 🌱 I’m currently exploring **Problem Solving, Data Science and Web development**.
 
 - 🪐 Fun fact: **I'm an artist, chess player and a video editor!**
 
