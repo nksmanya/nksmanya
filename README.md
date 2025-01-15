@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm <a href="www.linkedin.com/in/nksmanya">Manya </a></h1>
+<h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Manya </a></h1>
 
 
 <div align="center">
