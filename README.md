@@ -49,7 +49,8 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
  
 ### 🚀 Notable Projects
 - [Galactic Defender](https://github.com/nksmanya/galactic-defender): A space shooting game developed in Python.
-- [Web Quest](https://github.com/nksmanya/Web-Quest): A Web Development Quiz App.
+- [FyreFit](https://github.com/nksmanya/FyreFit): A Fitness Tracker Website using HTML, CSS and JavaScript.
+- [Virtual Canvas](https://github.com/nksmanya/virtual_canvas): A hand gesture-based drawing app that lets you create art in the air using hand movements.
 - [Playify Piano](https://github.com/nksmanya/Playify-Piano): A Playable Virtual Piano in HTML, CSS & JavaScript.
 - [Google Seach Clone](https://github.com/nksmanya/Google-Search-Clone): A Simple Clone of Google Search, Google Advanced Search and Google Images purely made with HTML and CSS.
 
