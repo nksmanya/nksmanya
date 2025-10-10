@@ -16,13 +16,10 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+developer;Open+Source+Contributor;Data+Science+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+developer;Open+Source+Contributor;Data+Science+Enthusiast)](https://git.io/typing-svg) 
 <img align="right" alt="Coding" height="40px" width="50px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
-<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nksmanya&label=Profile%20views&color=0e75b6&style=flat" alt="<your-username>" />
-</p>
+
 
  
 ### 💫 About Me
@@ -31,7 +28,7 @@
 
 - 🌱 I’m currently exploring **Problem Solving, Data Science and Web development**.
 
-- 🪐 Fun fact: **I'm an artist, chess player and a video editor!**
+- 🪐 Fun fact: **I love playing chess, drawing, painting and video editing**
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
@@ -58,7 +55,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
   
-### 📊 GitHub Stats
+### 📊 GitHub Stats <p align= "right"> <img src="https://komarev.com/ghpvc/?username=nksmanya&label=Profile%20views&color=0e75b6&style=flat" alt="<your-username>" /> </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50 px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="400px" alt="Manya's GitHub Stats">
