@@ -20,6 +20,9 @@
 <img align="right" alt="Coding" height="40px" width="50px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nksmanya&label=Profile%20views&color=0e75b6&style=flat" alt="<your-username>" />
+</p>
 
  
 ### 💫 About Me
