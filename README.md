@@ -35,7 +35,7 @@
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,mongodb,java,git,github,markdown,numpy,pandas" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,mongodb,java,git,github,markdown,nodejs,nextjs,anaconda,flask,postgres,prisma,react,sqlite,supabase,tailwind,ts,vscode" />
   </a>
 </p>
 
@@ -49,8 +49,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
  
 ### 🚀 Notable Projects
 - [Galactic Defender](https://github.com/nksmanya/galactic-defender): A space shooting game developed in Python.
-- [FyreFit](https://github.com/nksmanya/FyreFit): A Fitness Tracker Website using HTML, CSS and JavaScript.
-- [Virtual Canvas](https://github.com/nksmanya/virtual_canvas): A hand gesture-based drawing app that lets you create art in the air using hand movements.
+- [Artofolio](https://github.com/nksmanya/Artofolio): An art portfolio website to showcase and explore creative works, including digital art, paintings, and more.
 - [Digital Catalog Creation and Maintenance Agent](https://github.com/nksmanya/Digital-Catalog-Creation-and-Maintenance-Agent): An AI-powered tool that helps small sellers create and maintain digital product catalogs.
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
