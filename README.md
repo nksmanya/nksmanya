@@ -89,12 +89,13 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
 <details>	
  <summary><b>Coding badges 👩‍💻</b></summary><br>
+ <img src="images/coding.png" height ="180px"/>
  <img src="images/coding badges.png" height ="180px"/>
- <img src="images/coding badges 2.png" height ="180px"/>
 </details>
 
 <details>	
  <summary><b>Other badges ⛊</b></summary><br>
+ <img src="images/others.png" height ="180px" />
  <img src="images/other badges.png" height ="180px" />
 </details>
 
