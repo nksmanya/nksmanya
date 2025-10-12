@@ -54,7 +54,8 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
   <!-- https://github-readme-stats.vercel.app/ -->
-### 📊 GitHub Stats <p align= "right"> <img src="https://komarev.com/ghpvc/?username=nksmanya&label=Profile%20views&color=0e75b6&style=flat" alt="<your-username>" /> </p>
+  
+### 📊 GitHub Stats  <p align= "right"> <img src="https://komarev.com/ghpvc/?username=nksmanya&label=Profile%20views&color=0e75b6&style=flat" alt="<your-username>" /> </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50 px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="400px" alt="Manya's GitHub Stats">
