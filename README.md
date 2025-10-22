@@ -11,8 +11,9 @@
 <a href= "https://leetcode.com/u/nksmanya/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a></a>
 <a href="https://www.hackerrank.com/profile/nksmanya">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
 <a href="http://nksmanya.vercel.app">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a>
-<!-- <a href= "https://www.codechef.com/users/nksmanya"> ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)</a></a> -->
 <a href= "https://www.geeksforgeeks.org/user/nksmanya/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)</a>
+<!-- <a href= "https://www.codechef.com/users/nksmanya"> ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)</a></a> -->
+
 </div>
 
 
