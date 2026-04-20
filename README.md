@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently exploring **Problem Solving, Data Science and Full Stack development**.
 
-- 🪐 Fun fact: **I love playing chess, drawing, painting and video editing**
+- 🪐 Fun fact: **I love playing chess, art and video editing**
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
