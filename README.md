@@ -17,7 +17,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+developer;Open+Source+Contributor;Data+Science+Enthusiast)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=AI+developer;AI+Product+Engineer;Open+Source+Contributor;Data+Science+Enthusiast)](https://git.io/typing-svg) 
 <img align="right" alt="Coding" height="40px" width="50px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
 
 
