@@ -23,17 +23,17 @@
 
 
  
-### 💫 About Me
+### About Me
 
-- Pursuing my `Bachelor's` in `Computer Science Engineering` from `Hindustan Institute of Technology and Science`, Chennai.
+- `Computer Science Engineering` graduate from HITS, Chennai.
 
-- I’m currently exploring **Problem Solving, Data Science and Full Stack development**.
-
-- Fun fact: **I love playing chess, art and video editing**
+- Passionate about **Full Stack Development, AI Products, and Problem Solving**.
+- Building real-world digital solutions through projects, internships, hackathons, and open source. 
+- Outside tech, I enjoy **chess, art, photography, and video editing**.
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 
-### 🛠 Tech Stack
+### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,mongodb,java,git,github,markdown,nodejs,nextjs,anaconda,flask,postgres,prisma,react,sqlite,supabase,tailwind,ts,vscode" />
@@ -48,7 +48,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
  
-### 🚀 Notable Projects
+### Notable Projects
 - [Galactic Defender](https://github.com/nksmanya/galactic-defender): A space shooting game developed in Python.
 - [Artofolio](https://github.com/nksmanya/Artofolio): An art portfolio website to showcase and explore creative works, including digital art, paintings, and more.
 - [Digital Catalog Creation and Maintenance Agent](https://github.com/nksmanya/Digital-Catalog-Creation-and-Maintenance-Agent): An AI-powered tool that helps small sellers create and maintain digital product catalogs.
@@ -56,7 +56,7 @@ https://github.com/lifeparticle/Markdown-Cheatsheet
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
   <!-- https://github-readme-stats.vercel.app/ -->
   
-### 📊 Stats  
+### Stats  
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50 px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nksmanya&show_icons=true&theme=radical" width="400px" alt="Manya's GitHub Stats">
@@ -74,11 +74,11 @@ https://leetcard.jacoblin.cool/
 https://github-readme-streak-stats.herokuapp.com/demo/
 -->
  
-### 🏅 Digital Badges 
+### Digital Badges 
 
 
 <details>	
- <summary><b>GSSoC'24 extd 🪶</b></summary><br>
+ <summary><b>GSSoC'24 extd </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10 px;' align='center'>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="130px" height="130px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="130px" height="130px" />
@@ -90,20 +90,20 @@ https://github-readme-streak-stats.herokuapp.com/demo/
 </details>
 
 <details>	
- <summary><b>Hacktoberfest'24 👾</b></summary><br>
+ <summary><b>Hacktoberfest'24 </b></summary><br>
  
 [![An image of @nksmanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nksmanya)](https://holopin.io/@nksmanya)
 
 </details>
 
 <details>	
- <summary><b>Coding badges 👩‍💻</b></summary><br>
+ <summary><b>Coding badges </b></summary><br>
  <img src="images/coding.png" height ="180px"/>
  <img src="images/coding badges.png" height ="180px"/>
 </details>
 
 <details>	
- <summary><b>Other badges ⛊</b></summary><br>
+ <summary><b>Other badges </b></summary><br>
  <img src="images/others.png" height ="180px" />
  <img src="images/other badges.png" height ="180px" />
 </details>
