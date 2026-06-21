@@ -36,7 +36,7 @@
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,mongodb,java,git,github,markdown,nodejs,nextjs,anaconda,flask,postgres,prisma,react,sqlite,supabase,tailwind,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,mongodb,java,git,github,markdown,nodejs,nextjs,anaconda,flask,postgres,prisma,wordpress,react,sqlite,supabase,tailwind,ts,vscode" />
   </a>
 </p>
 
