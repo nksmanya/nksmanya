@@ -104,8 +104,8 @@ https://github-readme-streak-stats.herokuapp.com/demo/
 
 <details>	
  <summary><b>Other badges </b></summary><br>
- <img src="images/others.png" height ="180px" />
- <img src="images/other badges.png" height ="180px" />
+ <img src="images/others.png" height ="180px"/>
+ <img src="images/other badges.png" height ="180px"/>
 </details>
 
 <img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
